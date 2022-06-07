@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.photo{
+    margin-top: 100px;
+    text-align: center;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+.search-bar{
+    background-color:#EEEEEE;
+    font-size: 17px;
+    text-align: center;
+    padding left: 500px;
+}
+.search-bar-input{
+    width: 340px;
+    margin-left: -70;
+}
+.btn{
+    font-size: 14px;
+}
+#google-search{
+    margin-left: 15px;
+}
+#feeling-lucky{
+    margin-left: auto;
+}
+.boxes{
+    margin-top: 2px;
+}
+.box1{
+    background-color: #7EE5DA;
+    float: left;
+    text-align: center;
+    font-size: 18px;
+    padding: 11px 170px 11px 170px;
+}
+.box2{
+    background-color: #53cfc2;
+    float: left;
+    text-align: center;
+    padding: 6px 68px 7px 68px; 
+    margin-left: 2px;
+}
+.box3{
+    background-color: #26958a;
+    float: left;
+    text-align: center;
+    margin-left: 3px;
+    padding: 2px 162px 1px 163px;
+    height: 82px;
+}
+footer{
+    text-align: center;
+    font-size: 13,5px;
+    padding-top: 90px;
+}
